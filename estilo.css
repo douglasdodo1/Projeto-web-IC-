@@ -1,0 +1,211 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+#topo{
+    list-style: none;
+    position: fixed;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.658);
+    width: 100%;
+    height: 70px;
+    margin-top: -20px;
+}
+
+
+
+.fim{
+    position: relative;
+    margin-left: 500px;
+    margin-top: -38px;
+}
+
+body{
+    text-align: center;
+    background-image: url(imgs/wallpaper.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+#resumo{
+    width:50%;
+    margin:0 auto;
+    text-align: justify;
+    color: white;
+}
+
+.descricoes{
+    text-align:justify;
+    color: white;
+    position: absolute;
+    right: 440px;
+    top: 600px;
+}
+
+#ft_douglas {
+
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 100%;
+    border-color: #000C66;
+}
+
+.container {
+    top:500px;
+    background-color:rgba(0, 0, 0, 0.658);
+    width: 360px;
+    height: 440px;
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 20px;
+    border-color: rgba(0, 0, 0, 0.658);
+}
+
+#hobbies{
+    position: absolute;
+    left: 145px;
+    top: 515px;
+    width:120px;
+    border-style: solid;
+    border-radius: 10%;
+    background-color: rgba(0, 0, 0, 0.452);
+    color: rgba(209, 12, 12, 0.726);
+}
+
+.item1{
+    position:absolute;
+    left: -12px;
+    top: 570px;
+    border-style: solid;
+    border-width:9px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+    border-color: rgba(0, 0, 0, 0.014);
+}
+
+.item2{
+    position:absolute;
+    left: 180px;
+    top: 570px;
+    border-style: solid;
+    border-width:9px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+    border-color: rgba(0, 0, 0, 0.014);
+}
+
+.item3{
+    position:absolute;
+    left: -12px;
+    top: 750px;
+    border-style: solid;
+    border-width:9px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+    border-color: rgba(0, 0, 0, 0.014);
+}
+
+.item4{
+    position:absolute;
+    left: 180px;
+    top: 750px;
+    border-style: solid;
+    border-width:9px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+    border-color: rgba(0, 0, 0, 0.014);
+}
+.container2 {
+    position: relative;
+    top:-480px;
+    right:-933px;
+    background-color:rgba(0, 0, 0, 0.658);
+    border-color: rgba(0, 0, 0, 0.658);
+    width: 360px;
+    height: 440px;
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 20px;
+}
+
+.series_favoritas{
+    position:absolute;
+    right: 120px;
+    top: 5px;
+    height:60px;
+    color: rgb(209, 12, 12);
+    border-style: solid;
+    border-radius: 10%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.452);
+    color: rgba(209, 12, 12, 0.726);
+
+}
+
+.fav1{
+    position:absolute;
+    right: -40px;
+    top: 60px;
+    border-style: solid;
+    border-width:9px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+    border-color: rgba(0, 0, 0, 0.014);
+}
+
+.fav2{
+    position:absolute;
+    right: 155px;
+    top: 60px;
+    border-style: solid;
+    border-width:9px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+    border-color: rgba(0, 0, 0, 0.014);
+}
+
+.fav3{
+    position:absolute;
+    right: -40px;
+    top: 240px;
+    border-style: solid;
+    border-width:9px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+    border-color: rgba(0, 0, 0, 0.014);
+}
+
+.fav4{
+    position:absolute;
+    right: 155px;
+    top: 240px;
+    border-style: solid;
+    border-width:9px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+    border-color: rgba(0, 0, 0, 0.014);
+}
+
+#final{
+    position: absolute;
+    right:0px;
+    background-color:rgba(0, 0, 0, 0.493);
+    width: 100%;
+    color: white;
+}
+
+.link1{
+    color: white;
+}
+.link2{
+    color: white;
+}
+.link3{
+    color: white;
+}
+
+.top{
+    color:white;
+    text-decoration: none;
+}
